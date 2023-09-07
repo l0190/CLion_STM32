@@ -1,0 +1,20 @@
+CMakeFiles/GPIO.elf.dir/Core/Src/sysmem.c.obj: \
+ C:\Users\amin\Desktop\test\STM32_test\Clion\clion\Core\Src\sysmem.c \
+ d:\tools\code\c\arm-none-eabi\arm-none-eabi\include\errno.h \
+ d:\tools\code\c\arm-none-eabi\arm-none-eabi\include\sys\errno.h \
+ d:\tools\code\c\arm-none-eabi\arm-none-eabi\include\sys\reent.h \
+ d:\tools\code\c\arm-none-eabi\arm-none-eabi\include\_ansi.h \
+ d:\tools\code\c\arm-none-eabi\arm-none-eabi\include\newlib.h \
+ d:\tools\code\c\arm-none-eabi\arm-none-eabi\include\_newlib_version.h \
+ d:\tools\code\c\arm-none-eabi\arm-none-eabi\include\sys\config.h \
+ d:\tools\code\c\arm-none-eabi\arm-none-eabi\include\machine\ieeefp.h \
+ d:\tools\code\c\arm-none-eabi\arm-none-eabi\include\sys\features.h \
+ d:\tools\code\c\arm-none-eabi\lib\gcc\arm-none-eabi\12.2.1\include\stddef.h \
+ d:\tools\code\c\arm-none-eabi\arm-none-eabi\include\sys\_types.h \
+ d:\tools\code\c\arm-none-eabi\arm-none-eabi\include\machine\_types.h \
+ d:\tools\code\c\arm-none-eabi\arm-none-eabi\include\machine\_default_types.h \
+ d:\tools\code\c\arm-none-eabi\arm-none-eabi\include\sys\lock.h \
+ d:\tools\code\c\arm-none-eabi\lib\gcc\arm-none-eabi\12.2.1\include\stdint.h \
+ d:\tools\code\c\arm-none-eabi\arm-none-eabi\include\stdint.h \
+ d:\tools\code\c\arm-none-eabi\arm-none-eabi\include\sys\_intsup.h \
+ d:\tools\code\c\arm-none-eabi\arm-none-eabi\include\sys\_stdint.h
